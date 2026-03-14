@@ -1,6 +1,6 @@
 # httpfromtcp
 
-A small Go learning project focused on building HTTP functionality from raw TCP concepts.
+A Go learning project focused on building HTTP functionality from raw TCP concepts.
 
 ## Status
 
